@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Menu.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Help.resources
+C:\Users\User\Desktop\Millioner-Game\main\bin\Debug\main.exe.config
+C:\Users\User\Desktop\Millioner-Game\main\bin\Debug\main.exe
+C:\Users\User\Desktop\Millioner-Game\main\bin\Debug\main.pdb
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.End.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Game.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Question.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Settings.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.Type.resources
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.exe
+C:\Users\User\Desktop\Millioner-Game\main\obj\Debug\main.pdb
